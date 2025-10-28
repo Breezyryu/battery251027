@@ -1,0 +1,16 @@
+[project]
+name = "battery251027"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "matplot>=0.1.9",
+    "numpy>=2.3.4",
+    "pandas>=2.3.3",
+    "pyodbc>=5.3.0",
+    "pyqt6>=6.10.0",
+    "scipy>=1.16.2",
+    "xlwings>=0.33.16",
+]
